@@ -64,6 +64,7 @@ Use os filtros de Mês, Status e Prioridade para explorar os dados
 
 
 📚 Contexto Acadêmico
+
 Este projeto foi desenvolvido como portfólio para ingresso na graduação em Ciência de Dados pela Univesp, demonstrando proatividade e aplicação prática antes mesmo do início do curso:
 
 Análise e visualização de dados
